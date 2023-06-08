@@ -38,4 +38,4 @@ The uplift score represents the predicted incremental impact or uplift that a pa
 The uplift score is derived from an uplift model, which is trained using historical data that includes information about individuals, their characteristics, and their responses to treatment. The uplift model analyzes the data to estimate the individual treatment effects and predict the likelihood of a positive response due to the treatment.
 
 
-## Author: Jackie Sun
+#### Author: Jackie Sun
